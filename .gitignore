@@ -1,0 +1,31 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+*.pyc
+__pycache__/
+venv/
+env/
+*.egg-info/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node (for later)
+node_modules/
+npm-debug.log*
