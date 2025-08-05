@@ -112,7 +112,7 @@ CREATE TABLE company_changes (
 - Multiple API workers
 - Cloudflare Workers for edge compute
 
-## 🎯 Developer API Strategy
+## �� Developer API Strategy
 
 ### Pricing Tiers
 - **Free**: 1,000 requests/month, 1 req/second
