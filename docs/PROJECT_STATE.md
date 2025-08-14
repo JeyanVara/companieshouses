@@ -8,7 +8,7 @@ Last Updated: 2025-01-10 (Auto-update with each session)
 
 ### What's Live
 - ✅ Domain: companieshouses.com (Cloudflare → Pi)
-- ✅ Backend: Flask API returning JSON
+- ✅ Backend: Flask API returning JSON (as a skeleton)
 - ✅ GitHub: Connected and operational
 - ✅ Infrastructure: 256GB storage ready
 - ✅ Costs: £5/month (just electricity!)
